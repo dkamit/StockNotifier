@@ -1,0 +1,19 @@
+{
+  "name": "notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "google-finance": "^0.1.9",
+    "moment": "^2.18.1",
+    "node-notifier": "^5.1.2",
+    "yahoo-finance": "^0.3.2"
+  }
+}
